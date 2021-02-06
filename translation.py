@@ -30,7 +30,7 @@ URL | filename | username | password"""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
-Telegram ID: <code>{}</code>
+Telegram ID:1112368404
 Plan name: premium user
 Expires on: 31/12/2021"""
     HELP_USER = """Hai am URL Uploader bot..
